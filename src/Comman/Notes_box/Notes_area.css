@@ -1,0 +1,12 @@
+.Notes_box {
+    min-width: 22rem;
+    min-height: 20rem;
+    /* border: 2px solid red; */
+    /* margin-top: 1.5rem; */
+}
+
+.input_box {
+    background-color: transparent;
+    color: black;
+    border: 2px solid red;
+}
