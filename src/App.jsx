@@ -1,11 +1,27 @@
 import React from "react";
-import Note_main from "./Components/Note";
-// import "./App.css";
+import "./App.css";
+import SideBar from "./Components/SideBar/SideBar";
+import SearchBar from "./Components/Seraching/Search";
+import NoteDisplay from "./Components/NestsDisplay/NoteDisplay";
+
 
 const App = () => {
   return (
     <>
-      <Note_main />
+      <div className="Notes_main">
+        <div className="Notes_left_side">
+          <SideBar />
+        </div>
+        <div className="Notes_Right_side">
+          <div className="Notes_Right_top">
+            <div className="Notes_Right_top_top">
+              <SearchBar />
+            </div>
+            <NoteDisplay />
+          </div>
+
+        </div>
+      </div>
     </>
   );
 };

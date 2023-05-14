@@ -1,0 +1,63 @@
+@media screen and (max-width: 1400px) {
+  /* .Input_button {
+    right: 14rem;
+  } */
+}
+/* @media screen and (max-width: 1300px) {
+  .input_Box_Top_first {
+    gap: 2rem;
+  }
+  .input_Box_Top_Left_Row_First_item,
+  .input_Box_Top_Left_Row_Second_item,
+  .input_Box_Top_Left_Row_Three_item,
+  .input_Box_Top_Left_Row_Four_item {
+    gap: 0.7rem;
+  }
+  .Input_button {
+    right: 12rem;
+  }
+}
+@media screen and (max-width: 1200px) {
+  .input_Box_Top_first {
+    gap: 2rem;
+  }
+  .input_Box_Top_Left_Row_First_item,
+  .input_Box_Top_Left_Row_Second_item,
+  .input_Box_Top_Left_Row_Three_item,
+  .input_Box_Top_Left_Row_Four_item {
+    gap: 0.5rem;
+  }
+    .Input_button {
+    right: 11rem;
+  }
+}
+@media screen and (max-width: 1100px) {
+  .input_Box_Top_first {
+    gap: 1.7rem;
+  }
+  .input_Box_Top_Left_Row_First_item,
+  .input_Box_Top_Left_Row_Second_item,
+  .input_Box_Top_Left_Row_Three_item,
+  .input_Box_Top_Left_Row_Four_item {
+    gap: 0.3rem;
+  }
+    .Input_button {
+    right: 10rem;
+  }
+}
+@media screen and (max-width: 1000px) {
+  .input_Box_Top_first {
+    gap: 1.5rem;
+  }
+  .input_Box_Top_Left_Row_First_item,
+  .input_Box_Top_Left_Row_Second_item,
+  .input_Box_Top_Left_Row_Three_item,
+  .input_Box_Top_Left_Row_Four_item {
+    gap: 0.2rem;
+  }
+    .Input_button {
+    right: 8.5rem;
+  }
+} */
+@media screen and (max-width: 900px) {
+}
